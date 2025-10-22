@@ -1,0 +1,46 @@
+{
+  "name": "capybash/magicbb",
+  "description": "Extra BBCodes, handy toolbar buttons, and unique text formatting for the forum composer.",
+  "type": "flarum-extension",
+  "keywords": ["flarum", "flarum-extension", "bbcode", "formatting", "composer", "toolbar", "magic"],
+  "license": "MIT",
+  "homepage": "https://github.com/capybash/magicbb",
+  "support": {
+    "issues": "https://github.com/capybash/magicbb/issues",
+    "source": "https://github.com/capybash/magicbb",
+    "forum": "https://discuss.flarum.org/d/38053-magicbb-extra-bbcodes-toolbar-buttons"
+  },
+  "authors": [
+    {
+      "name": "capybash",
+      "role": "Developer",
+      "homepage": "https://github.com/capybash"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "flarum/core": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Capybash\\MagicBB\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-1.x": "1.x-dev"
+    },
+    "flarum-extension": {
+      "title": "Magic BBCodes",
+      "category": "formatting",
+      "icon": {
+        "name": "fas fa-wand-magic-sparkles",
+        "backgroundColor": "#6A5ACD",
+        "color": "#ffffff"
+      }
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
