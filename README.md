@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of capybash/magicbb.** Not for installation: use [Packagist](https://packagist.org/packages/capybash/magicbb) or the [upstream repository](https://github.com/capybash/magicbb).
 
-**0** versions archived · Latest: [`v7.1.0`](https://github.com/flarchive/capybash-magicbb/tree/archive/v7.1.0) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`v7.1.0`](https://github.com/flarchive/capybash-magicbb/tree/archive/v7.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v5.0.0` | 2025-10-13 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicbb/tree/archive/v5.0.0) |
+| `v5.1.0` | 2025-10-13 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicbb/tree/archive/v5.1.0) |
+| `v6.0.0` | 2025-10-18 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicbb/tree/archive/v6.0.0) |
+| `v6.1.9` | 2025-10-18 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicbb/tree/archive/v6.1.9) |
+| `v7.0.0` | 2025-10-22 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicbb/tree/archive/v7.0.0) |
+| `v7.1.0` | 2025-10-22 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicbb/tree/archive/v7.1.0) |
 
 Catalog entry: [packages/capybash-magicbb.json](https://github.com/flarchive/archive-index/blob/main/packages/capybash-magicbb.json)
 
